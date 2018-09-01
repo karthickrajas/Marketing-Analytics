@@ -9,4 +9,13 @@
 ```
 
 * Churn Prevention - Logistic Regression
+
 * Time untill next order - Survival Analysis
+```
+* survival object and censoring
+* kapla meier statistics
+* Cox ph models
+* validation and prediction 
+```
+
+* PCA on Customer data
